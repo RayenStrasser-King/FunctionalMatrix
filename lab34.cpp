@@ -13,14 +13,14 @@ int main()
                         //cout<<x[i][j]<<endl;
                 }
         }
-        cout<<"Do you want to add by row (enter: r) or add by column (enter: c):"<<endl;
+        cout<<"Do you want to add by row (enter: r) or add by column (enter: c) :"<<endl;
         char r;
         int b;
 
         cin>>r;
         cout<<"What row/column number do you want to sum (first row/column has 0 value)"<<endl;
         cin>>b;
-        cout<<"The sum is:15"<<endl;
+        cout<<"The sum is :15"<<endl;
 
 
         return 0;
